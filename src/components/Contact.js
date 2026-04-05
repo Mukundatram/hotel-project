@@ -7,7 +7,7 @@ const contactInfo = [
   {
     icon: MapPin,
     title: "Address",
-    lines: ["Hotel Shivalay Guest House", "Khamgaon Road, Near Gajanan Maharaj Vatika", "Shegaon, Maharashtra 444203"],
+    lines: ["Hotel Nandan Guest House", "Khamgaon Road, Near Gajanan Maharaj Vatika", "Shegaon, Maharashtra 444203"],
   },
   {
     icon: Phone,
@@ -92,7 +92,7 @@ export default function Contact() {
 
           <div className="animate-on-scroll">
             <div className="rounded-2xl overflow-hidden shadow-xl border border-cream-dark/20 h-full min-h-[400px]">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3744.2!2d76.6951!3d20.7929!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDQ3JzM0LjQiTiA3NsKwNDEnNDIuNCJF!5e0!3m2!1sen!2sin!4v1234567890" width="100%" height="100%" style={{ border: 0, minHeight: "400px" }} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade" title="Hotel Shivalay Location" />
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3744.2!2d76.6951!3d20.7929!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjDCsDQ3JzM0LjQiTiA3NsKwNDEnNDIuNCJF!5e0!3m2!1sen!2sin!4v1234567890" width="100%" height="100%" style={{ border: 0, minHeight: "400px" }} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade" title="Hotel Nandan Location" />
             </div>
           </div>
         </div>

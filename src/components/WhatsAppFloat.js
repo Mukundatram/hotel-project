@@ -5,7 +5,7 @@ import { MessageCircle } from "lucide-react";
 export default function WhatsAppFloat() {
   return (
     <a
-      href="https://wa.me/919876543210?text=Hello!%20I%20would%20like%20to%20inquire%20about%20room%20availability%20at%20Hotel%20Shivalay."
+      href="https://wa.me/919876543210?text=Hello!%20I%20would%20like%20to%20inquire%20about%20room%20availability%20at%20Hotel%20Nandan."
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Chat on WhatsApp"

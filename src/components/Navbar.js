@@ -43,11 +43,11 @@ export default function Navbar() {
           {/* Logo */}
           <a href="#home" className="flex items-center gap-3 group">
             <div className="w-10 h-10 rounded-full bg-gradient-to-br from-gold to-gold-dark flex items-center justify-center shadow-md group-hover:shadow-lg transition-shadow">
-              <span className="text-white font-bold text-lg font-[family-name:var(--font-heading)]">S</span>
+              <span className="text-white font-bold text-lg font-[family-name:var(--font-heading)]">N</span>
             </div>
             <div className="hidden sm:block">
               <h1 className="text-lg font-bold font-[family-name:var(--font-heading)] text-brown-dark leading-tight">
-                Hotel Shivalay
+                Hotel Nandan
               </h1>
               <p className="text-xs text-warm-gray-light tracking-wider uppercase">
                 Guest House

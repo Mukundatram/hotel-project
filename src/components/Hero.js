@@ -42,7 +42,7 @@ export default function Hero() {
 
         {/* Hotel Name */}
         <h1 className="font-[family-name:var(--font-heading)] text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 animate-[slide-up_0.6s_ease-out_0.2s_forwards] opacity-0 leading-tight">
-          Hotel Shivalay
+          Hotel Nandan
           <span className="block text-gold-light mt-2 text-3xl sm:text-4xl md:text-5xl font-medium">
             Guest House
           </span>

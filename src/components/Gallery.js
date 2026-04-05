@@ -5,7 +5,7 @@ import Image from "next/image";
 import { X } from "lucide-react";
 
 const images = [
-  { src: "/images/hero.png", alt: "Hotel Shivalay Exterior", span: "col-span-2 row-span-2" },
+  { src: "/images/hero.png", alt: "Hotel Nandan Exterior", span: "col-span-2 row-span-2" },
   { src: "/images/room-standard.png", alt: "Standard Room", span: "" },
   { src: "/images/gallery-lobby.png", alt: "Hotel Lobby & Reception", span: "" },
   { src: "/images/room-deluxe.png", alt: "Deluxe Room", span: "col-span-2" },

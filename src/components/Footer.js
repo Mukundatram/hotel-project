@@ -48,10 +48,10 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <div className="flex items-center gap-3 mb-4">
               <div className="w-10 h-10 rounded-full bg-gradient-to-br from-gold to-gold-dark flex items-center justify-center">
-                <span className="text-white font-bold text-lg font-[family-name:var(--font-heading)]">S</span>
+                <span className="text-white font-bold text-lg font-[family-name:var(--font-heading)]">N</span>
               </div>
               <div>
-                <h3 className="font-[family-name:var(--font-heading)] text-lg font-bold">Hotel Shivalay</h3>
+                <h3 className="font-[family-name:var(--font-heading)] text-lg font-bold">Hotel Nandan</h3>
                 <p className="text-xs text-white/50 tracking-wider uppercase">Guest House</p>
               </div>
             </div>
@@ -114,7 +114,7 @@ export default function Footer() {
       <div className="border-t border-white/10">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-white/40">
-            © {new Date().getFullYear()} Hotel Shivalay Guest House, Shegaon. All rights reserved.
+            © {new Date().getFullYear()} Hotel Nandan Guest House, Shegaon. All rights reserved.
           </p>
           <p className="text-xs text-white/40">
             Designed with ❤️ for our valued guests

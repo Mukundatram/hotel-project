@@ -72,7 +72,7 @@ export default function About() {
                 Budget-Friendly Comfort in the Heart of Shegaon
               </h3>
               <p className="text-warm-gray leading-relaxed mb-4">
-                Hotel Shivalay Guest House is a thoughtfully designed
+                Hotel Nandan Guest House is a thoughtfully designed
                 accommodation for pilgrims, families, and travelers visiting
                 Shegaon. Located on Khamgaon Road, just steps away from the
                 renowned Shree Gajanan Maharaj Temple, we offer a perfect blend
